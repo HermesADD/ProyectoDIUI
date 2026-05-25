@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import IconPaperclip from './icons/IconPaperclip';
+import IconPaperclip from './icons/IconPaperClip';
 import IconSmile from './icons/IconSmile';
 import IconSend from './icons/IconSend';
 
